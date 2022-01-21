@@ -7,6 +7,7 @@ public class m05 {
         ArrayList<String> unga=new ArrayList<>();
         unga.add("hello ");
         unga.add("World");
+        unga.add("Hola");
         System.out.println(unga);
     }
 }
